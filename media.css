@@ -1,0 +1,22 @@
+@media(max-width: 550px){
+	.menu{
+		padding:20px 0 ;
+		text-align: center;
+		width: 100%;
+		position: static;
+	}
+	
+.member{
+	width: 85%;
+}
+.price{
+	width: 85%;
+}
+.main{
+	text-align: center;
+	margin:0;
+}
+.paint img{
+	width: 100%;
+}
+}
